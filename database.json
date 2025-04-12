@@ -1,5 +1,19 @@
 {
   "access_list": [],
-  "user_list": [],
-  "logs": []
+  "user_list": [
+    {
+      "username": "riann",
+      "number": "6283191793822",
+      "status": "pending"
+    }
+  ],
+  "logs": [
+    {
+      "timestamp": "2025-04-12T22:35:07.028Z",
+      "action": "pengajuan",
+      "username": "riann",
+      "number": "6283191793822",
+      "status": "pending"
+    }
+  ]
 }
