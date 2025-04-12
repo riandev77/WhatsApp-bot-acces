@@ -1,9 +1,5 @@
 {
-  "access_list": [
-    {
-      "number": "6285796965389"
-    }
-  ],
+  "access_list": [],
   "user_list": [],
   "logs": []
 }
