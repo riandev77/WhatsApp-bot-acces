@@ -5,6 +5,11 @@
       "username": "riann",
       "number": "6283191793822",
       "status": "pending"
+    },
+    {
+      "username": "admin ",
+      "number": "6285382881871",
+      "status": "pending"
     }
   ],
   "logs": [
@@ -13,6 +18,13 @@
       "action": "pengajuan",
       "username": "riann",
       "number": "6283191793822",
+      "status": "pending"
+    },
+    {
+      "timestamp": "2025-04-12T23:01:03.729Z",
+      "action": "pengajuan",
+      "username": "admin ",
+      "number": "6285382881871",
       "status": "pending"
     }
   ]
