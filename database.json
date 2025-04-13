@@ -15,6 +15,11 @@
       "username": "riann",
       "number": "6286671556166",
       "status": "pending"
+    },
+    {
+      "username": "Riyan",
+      "number": "628543555676",
+      "status": "pending"
     }
   ],
   "logs": [
@@ -37,6 +42,13 @@
       "action": "pengajuan",
       "username": "riann",
       "number": "6286671556166",
+      "status": "pending"
+    },
+    {
+      "timestamp": "2025-04-13T06:29:15.443Z",
+      "action": "pengajuan",
+      "username": "Riyan",
+      "number": "628543555676",
       "status": "pending"
     }
   ]
