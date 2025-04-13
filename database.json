@@ -1,5 +1,9 @@
 {
-  "access_list": [],
+  "access_list": [
+    {
+      "number": "6285382881871"
+    }
+  ],
   "user_list": [
     {
       "username": "riann",
@@ -9,7 +13,7 @@
     {
       "username": "admin ",
       "number": "6285382881871",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "username": "riann",
@@ -50,6 +54,13 @@
       "username": "Riyan",
       "number": "628543555676",
       "status": "pending"
+    },
+    {
+      "timestamp": "2025-04-13T08:03:56.368Z",
+      "action": "disetujui",
+      "username": "admin ",
+      "number": "6285382881871",
+      "status": "approved"
     }
   ]
 }
