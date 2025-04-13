@@ -1,18 +1,10 @@
 {
   "access_list": [
     {
-      "number": "6285382881871"
-    },
-    {
       "number": "6283191793822"
     }
   ],
   "user_list": [
-    {
-      "username": "riann",
-      "number": "6285382881871",
-      "status": "approved"
-    },
     {
       "username": "rianshop",
       "number": "6283191793822",
@@ -20,20 +12,6 @@
     }
   ],
   "logs": [
-    {
-      "timestamp": "2025-04-13T08:27:13.890Z",
-      "action": "pengajuan",
-      "username": "riann",
-      "number": "6285382881871",
-      "status": "pending"
-    },
-    {
-      "timestamp": "2025-04-13T08:40:23.021Z",
-      "action": "disetujui",
-      "username": "riann",
-      "number": "6285382881871",
-      "status": "approved"
-    },
     {
       "timestamp": "2025-04-13T08:43:50.322Z",
       "action": "pengajuan",
