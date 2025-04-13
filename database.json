@@ -2,6 +2,9 @@
   "access_list": [
     {
       "number": "6283191793822"
+    },
+    {
+      "number": "6285382881871"
     }
   ],
   "user_list": [
@@ -13,7 +16,7 @@
     {
       "username": "rian",
       "number": "6285382881871",
-      "status": "pending"
+      "status": "approved"
     }
   ],
   "logs": [
@@ -37,6 +40,13 @@
       "username": "rian",
       "number": "6285382881871",
       "status": "pending"
+    },
+    {
+      "timestamp": "2025-04-13T13:36:38.229Z",
+      "action": "disetujui",
+      "username": "rian",
+      "number": "6285382881871",
+      "status": "approved"
     }
   ]
 }
