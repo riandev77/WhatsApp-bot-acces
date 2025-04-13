@@ -9,6 +9,11 @@
       "username": "rianshop",
       "number": "6283191793822",
       "status": "approved"
+    },
+    {
+      "username": "rian",
+      "number": "6285382881871",
+      "status": "pending"
     }
   ],
   "logs": [
@@ -25,6 +30,13 @@
       "username": "rianshop",
       "number": "6283191793822",
       "status": "approved"
+    },
+    {
+      "timestamp": "2025-04-13T13:36:22.446Z",
+      "action": "pengajuan",
+      "username": "rian",
+      "number": "6285382881871",
+      "status": "pending"
     }
   ]
 }
