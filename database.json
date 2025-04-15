@@ -32,7 +32,7 @@
     {
       "username": "lukman",
       "number": "6285462186105",
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "username": "kontolodon",
@@ -109,6 +109,13 @@
       "action": "ditolak",
       "username": "kontolodon",
       "number": "6281234567891",
+      "status": "rejected"
+    },
+    {
+      "timestamp": "2025-04-15T17:18:46.472Z",
+      "action": "ditolak",
+      "username": "lukman",
+      "number": "6285462186105",
       "status": "rejected"
     }
   ]
