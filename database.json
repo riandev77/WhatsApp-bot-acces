@@ -35,6 +35,11 @@
       "username": "kontolodon",
       "number": "6281234567891",
       "status": "rejected"
+    },
+    {
+      "username": "Pppp",
+      "number": "6287655478888",
+      "status": "pending"
     }
   ],
   "logs": [
@@ -114,6 +119,13 @@
       "username": "lukman",
       "number": "6285462186105",
       "status": "rejected"
+    },
+    {
+      "timestamp": "2025-04-15T17:21:18.855Z",
+      "action": "pengajuan",
+      "username": "Pppp",
+      "number": "6287655478888",
+      "status": "pending"
     }
   ]
 }
