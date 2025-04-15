@@ -37,7 +37,7 @@
     {
       "username": "kontolodon",
       "number": "6281234567891",
-      "status": "approved"
+      "status": "rejected"
     }
   ],
   "logs": [
@@ -103,6 +103,13 @@
       "username": "kontolodon",
       "number": "6281234567891",
       "status": "approved"
+    },
+    {
+      "timestamp": "2025-04-15T17:18:32.373Z",
+      "action": "ditolak",
+      "username": "kontolodon",
+      "number": "6281234567891",
+      "status": "rejected"
     }
   ]
 }
