@@ -25,21 +25,6 @@
       "username": "rian3",
       "number": "6285796965389",
       "status": "approved"
-    },
-    {
-      "username": "lukman",
-      "number": "6285462186105",
-      "status": "rejected"
-    },
-    {
-      "username": "kontolodon",
-      "number": "6281234567891",
-      "status": "rejected"
-    },
-    {
-      "username": "Pppp",
-      "number": "6287655478888",
-      "status": "pending"
     }
   ],
   "logs": [
@@ -84,48 +69,6 @@
       "username": "rian3",
       "number": "6285796965389",
       "status": "approved"
-    },
-    {
-      "timestamp": "2025-04-15T16:56:45.696Z",
-      "action": "pengajuan",
-      "username": "lukman",
-      "number": "6285462186105",
-      "status": "pending"
-    },
-    {
-      "timestamp": "2025-04-15T16:58:02.282Z",
-      "action": "pengajuan",
-      "username": "kontolodon",
-      "number": "6281234567891",
-      "status": "pending"
-    },
-    {
-      "timestamp": "2025-04-15T17:18:30.837Z",
-      "action": "disetujui",
-      "username": "kontolodon",
-      "number": "6281234567891",
-      "status": "approved"
-    },
-    {
-      "timestamp": "2025-04-15T17:18:32.373Z",
-      "action": "ditolak",
-      "username": "kontolodon",
-      "number": "6281234567891",
-      "status": "rejected"
-    },
-    {
-      "timestamp": "2025-04-15T17:18:46.472Z",
-      "action": "ditolak",
-      "username": "lukman",
-      "number": "6285462186105",
-      "status": "rejected"
-    },
-    {
-      "timestamp": "2025-04-15T17:21:18.855Z",
-      "action": "pengajuan",
-      "username": "Pppp",
-      "number": "6287655478888",
-      "status": "pending"
     }
   ]
 }
