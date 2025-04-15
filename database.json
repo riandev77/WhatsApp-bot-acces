@@ -30,6 +30,11 @@
       "username": "lukman",
       "number": "6285462186105",
       "status": "pending"
+    },
+    {
+      "username": "kontolodon",
+      "number": "6281234567891",
+      "status": "pending"
     }
   ],
   "logs": [
@@ -80,6 +85,13 @@
       "action": "pengajuan",
       "username": "lukman",
       "number": "6285462186105",
+      "status": "pending"
+    },
+    {
+      "timestamp": "2025-04-15T16:58:02.282Z",
+      "action": "pengajuan",
+      "username": "kontolodon",
+      "number": "6281234567891",
       "status": "pending"
     }
   ]
