@@ -25,6 +25,11 @@
       "username": "rian3",
       "number": "6285796965389",
       "status": "approved"
+    },
+    {
+      "username": "admin",
+      "number": "6282217349226",
+      "status": "pending"
     }
   ],
   "logs": [
@@ -69,6 +74,13 @@
       "username": "rian3",
       "number": "6285796965389",
       "status": "approved"
+    },
+    {
+      "timestamp": "2025-04-20T04:31:07.789Z",
+      "action": "pengajuan",
+      "username": "admin",
+      "number": "6282217349226",
+      "status": "pending"
     }
   ]
 }
