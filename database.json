@@ -8,6 +8,9 @@
     },
     {
       "number": "6285796965389"
+    },
+    {
+      "number": "6282217349226"
     }
   ],
   "user_list": [
@@ -29,7 +32,7 @@
     {
       "username": "admin",
       "number": "6282217349226",
-      "status": "pending"
+      "status": "approved"
     }
   ],
   "logs": [
@@ -81,6 +84,13 @@
       "username": "admin",
       "number": "6282217349226",
       "status": "pending"
+    },
+    {
+      "timestamp": "2025-04-20T04:31:17.026Z",
+      "action": "disetujui",
+      "username": "admin",
+      "number": "6282217349226",
+      "status": "approved"
     }
   ]
 }
